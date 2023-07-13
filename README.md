@@ -21,5 +21,5 @@
 <ul>
 <li align="left">Initialization- npm init</li>
 <li align="left">Package installation (i.e., body-parser, express, moongoose and ejs)- npm install "package"</li>
-<li align="left">Run- nodemon "file name"</li>
+<li align="left">Run- mongod & nodemon "file name"</li>
 </ul>
