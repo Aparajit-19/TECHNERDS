@@ -13,8 +13,8 @@
 <ul>
 <li align="left">Frontend- HTML, CSS, JAVASCRIPT, BOOTSTRAP</li>
 <li align="left">Backend- NODE.JS , EXPRESS.JS </li>
-<li align="left">Database- MONGODB </li>
-<li align="left">Others- NPM, NODEMON, JSON, EJS </li>
+<li align="left">Database- MONGODB, MOONGOOSE </li>
+<li align="left">Others- NPM, NODEMON, JSON, EJS.....ETC </li>
 </ul>
 
 <h2 align="left">Steps taken to run it:</h2>
