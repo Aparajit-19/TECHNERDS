@@ -24,4 +24,6 @@
 <li align="left">Run- mongod & nodemon "file name"</li>
 </ul>
 
+<h2 align="left">Visual representation:</h2>
+![alt text](Home page.png)
 
