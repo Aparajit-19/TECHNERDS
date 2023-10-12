@@ -24,14 +24,6 @@
 <li align="left">Run- mongod & nodemon "file name"</li>
 </ul>
 
-<h2 align="left">Visual representation:</h2>
-<ul>
-<li align="left">https://github.com/Aparajit-19/Technerds/assets/74190792/e7f1bfc8-df3b-48ad-bc75-ef356cf74bc7</li>
-<li align="left">https://github.com/Aparajit-19/Technerds/assets/74190792/e608594f-2e57-42bb-90f5-c3d1c4bd993d</li>
-<li align="left">https://github.com/Aparajit-19/Technerds/assets/74190792/a2c0a02e-7665-4f39-9496-af3b514160a8</li>
-<li align="left">https://github.com/Aparajit-19/Technerds/assets/74190792/b15003a9-5cfa-43b7-b1d8-d087dfdfabef>
-<li align="left">https://github.com/Aparajit-19/Technerds/assets/74190792/4512d629-a412-48a0-90ae-c31bb256491d</li>
-</ul>
 
 
 
