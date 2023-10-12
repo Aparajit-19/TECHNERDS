@@ -25,5 +25,6 @@
 </ul>
 
 <h2 align="left">Visual representation:</h2>
-![alt text](Home page.png)
+![Home page](https://github.com/Aparajit-19/Technerds/assets/74190792/e7f1bfc8-df3b-48ad-bc75-ef356cf74bc7)
+
 
