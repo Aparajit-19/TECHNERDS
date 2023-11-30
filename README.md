@@ -11,10 +11,10 @@
 
 <h2 align="left">Techstack used:</h2>
 <ul>
-<li align="left">Frontend- HTML, CSS, JAVASCRIPT, BOOTSTRAP</li>
-<li align="left">Backend- NODE.JS , EXPRESS.JS </li>
-<li align="left">Database- MONGODB, MOONGOOSE </li>
-<li align="left">Others- NPM, NODEMON, JSON, EJS.....ETC </li>
+<li align="left">Frontend- HTML5, CSS3, JavaScriptES6, Bootstrap5</li>
+<li align="left">Backend- Node.js , Express.js </li>
+<li align="left">Database- MongoDB, Mongoose </li>
+<li align="left">Others- npm, nodemon, JSON, Ejs.....etc </li>
 </ul>
 
 <h2 align="left">Steps taken to run it:</h2>
