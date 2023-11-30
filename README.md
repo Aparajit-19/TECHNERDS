@@ -24,10 +24,7 @@
 <li align="left">Run- mongod & nodemon "file name"</li>
 </ul>
 
-<h2 align="left">Visual representation:</h2>
-<ul>
-<<img width="894" alt="![Screenshot (43)](https://github.com/Aparajit-19/Technerds/assets/74190792/c45d4aa5-e49f-4428-9afd-0b98687a2636)">>
-</ul>
+
 
 
 
