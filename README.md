@@ -24,6 +24,10 @@
 <li align="left">Run- mongod & nodemon "file name"</li>
 </ul>
 
+<h2 align="left">Visual representation:</h2>
+<ul>
+<<img width="894" alt="Screenshot 43" src="https://github.com/Aparajit-19/Java-learning/assets/74190792/89fc7795-2cf6-4d05-b9c3-16aef5b72f3c">>
+</ul>
 
 
 
