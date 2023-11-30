@@ -26,7 +26,8 @@
 
 <h2 align="left">Visual representation:</h2>
 <ul>
-<<img width="894" alt="![Screenshot (43)](https://github.com/Aparajit-19/Technerds/assets/74190792/9736adf7-7d92-4a4c-98f3-3b8dc2a2240f)">>
+<<img width="894" alt="![Screenshot (43)](https://github.com/Aparajit-19/Technerds/assets/74190792/29afc950-3615-4a0c-a310-3c702f9e1a07)
+>>
 </ul>
 
 
